@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/LobbyManager/Scenes/Index.unity
+    guid: af96d2597032f60408a5f1f67d680436
+  - enabled: 0
+    path: Assets/LobbyManager/Scenes/Game.unity
+    guid: 68213d2902b94244db7711dec91b2294
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 14e548d5d6fe94aa6a4c4c25850a093e
+  - enabled: 1
+    path: Assets/AVProVideo/Demos/Scenes/01_Demo_BackgroundShader.unity
+    guid: b66b1e05c4242c84b9cfd13f593262ad
+  - enabled: 1
+    path: Assets/AVProVideo/Demos/Scenes/02_Demo_imGui.unity
+    guid: 0a6e6b9ea31c98e4db14ba70479f8d9c
+  - enabled: 1
+    path: Assets/AVProVideo/Demos/Scenes/03_Demo_VideoControls.unity
+    guid: 13d63374585d9f948bba668db2d4fe5a
+  - enabled: 1
+    path: Assets/AVProVideo/Demos/Scenes/04_Demo_uGui.unity
+    guid: 9e989ea0729df4845ba2bfbc06f4e42b
+  - enabled: 1
+    path: Assets/AVProVideo/Demos/Scenes/05_Demo_Multiple.unity
+    guid: 98fe9081a719d104faa8c286d1c6d38c
+  - enabled: 1
+    path: Assets/AVProVideo/Demos/Scenes/06_Demo_FrameExtract.unity
+    guid: d7d059b9dc264504d9ebedd4fbc376c6
+  - enabled: 1
+    path: Assets/AVProVideo/Demos/Scenes/07_Demo_Mapping3D.unity
+    guid: 18bdfcdc1227e60429aea892dfeb4354
+  - enabled: 1
+    path: Assets/AVProVideo/Demos/Scenes/08_Demo_360SphereVideo.unity
+    guid: 46c885062d1f974438005e5b3d285ab6
+  - enabled: 1
+    path: Assets/AVProVideo/Demos/Scenes/09_Demo_360CubeVideo.unity
+    guid: a1dac1a17e01c1f45a4028186b8f8790
+  - enabled: 1
+    path: Assets/AVProVideo/Demos/Scenes/10_Demo_Transparency.unity
+    guid: 3fe422f8af6614643b78454f6721235c
+  - enabled: 1
+    path: Assets/AVProVideo/Demos/Scenes/11_Demo_Subtitles.unity
+    guid: 4952ee753c249b344918dda11e7f0c61
+  - enabled: 1
+    path: Assets/AVProVideo/Demos/Scenes/12_Demo_180SphereVideo.unity
+    guid: 0ab5b786b15ee954eb49c576ae0f5ee3
+  - enabled: 1
+    path: Assets/AVProVideo/Demos/Scenes/13_Demo_360StereoSpatialAudio.unity
+    guid: 8f1720b718ee073438d125521c6f96e8
+  - enabled: 1
+    path: Assets/AVProVideo/Demos/Scenes/14_Demo_PlaylistTransitions.unity
+    guid: 2f5e432f133a85543a50ebf6bd1e3013
+  m_configObjects: {}
